@@ -30,3 +30,9 @@ data/4x4/4x4_23.patt
 data/4x4/4x4_1.patt
 457.2
 0.0 0.0
+
+#pattern 6
+4x4_6
+data/4x4/4x4_28.patt
+515.0
+0.0 0.0
